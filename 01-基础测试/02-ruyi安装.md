@@ -9,3 +9,4 @@
 ## 预期结果
 
 不会弹出没有检测到 ruyi。
+~/.local/bin/ruyi help 输出正常
